@@ -1,0 +1,22 @@
+[
+    {
+        "fullname": "sxltan",
+        "username": "test",
+        "password": "$2y$10$\/Z2\/Dtn5gv6w2zh4ZRqusuz03H0ALgDHWXHK8Vl6lzj\/LzTc1Y5Z.",
+        "created_at": "2025-08-10T18:33:48+02:00"
+    },
+    {
+        "fullname": "Administrator",
+        "username": "admin",
+        "password": "$2y$10$FSfffo8cQHUgNwRKDNYib.PLkOMuu.1\/bYBjfOdl4c1F9GsnfEPtO",
+        "role": "admin",
+        "created_at": "2025-08-10T21:46:46+02:00"
+    },
+    {
+        "fullname": "test2",
+        "username": "test2",
+        "password": "$2y$10$HUWhjqsKbGJD5M2oFlXWRO4ytlnoqq8wYsBSoWTo\/4dAztJg.2n4K",
+        "role": "user",
+        "created_at": "2025-10-15T13:29:39+02:00"
+    }
+]
